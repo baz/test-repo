@@ -3,7 +3,7 @@
 //  pr-test-proj
 //
 //  Created by Basil Shkara on 10/25/19.
-//  Copyright © 2019 Basil Shkara. All rights reserved. Test
+//  Copyright © 2019 Basil Shkara. All rights reserved. Test.
 //
 
 import Cocoa
